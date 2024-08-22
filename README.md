@@ -2,7 +2,7 @@
 
 <h1 align="center">Ecstasy / Nix</h1>
 
-- 🥴 Started at 14 now 19
+- 🥴 Started at 14 now 20
 - ✨ Creating bugs since 2018
 - 📚 Currently learning Go
 - 🎯 Best way to learn is through exploration & experimentation.
