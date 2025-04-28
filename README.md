@@ -10,9 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsEcstasy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1&custom_title=Github%20Stats:" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsEcstasy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2&custom_title=Languages" height="190" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ItsEcstasy&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourpov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1&custom_title=Github%20Stats:" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourpov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blueberry&hide_border=true&order=2&custom_title=Languages" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yourpov&locale=en&mode=weekly&theme=blueberry&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItsEcstasy.ItsEcstasy&left_color=crimson&left_text=Profile%20Visits:"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourpov.yourpov&left_color=crimson&left_text=Profile%20Visits:"  />
 </div>
 
 ###
