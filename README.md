@@ -36,7 +36,7 @@
   <!-- src="https://lanyard.cnrad.dev/api/1055337846657007648?theme=dark&bg=242938&borderRadius=18px&animated=true&showDisplayName=true&ignoreAppId=1347234435434811525&idleMessage=probably%20coding%20or%20AFK" -->
   <img
       alt="Discord Presence"
-      src="https://lanyard.cnrad.dev/api/1055337846657007648?theme=dark&bg=242938&borderRadius=18px&animated=true&showDisplayName=true&idleMessage=probably%20coding%20or%20AFK"
+      src="https://lanyard.cnrad.dev/api/1055337846657007648?theme=dark&bg=242938&borderRadius=18px&animated=true&showDisplayName=true&ignoreAppId=1347234435434811525&idleMessage=probably%20coding%20or%20AFK"
     />
   </a>
 </div>
